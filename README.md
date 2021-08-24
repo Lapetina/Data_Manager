@@ -1,2 +1,2 @@
 # Data_Manager
-System for persist of data
+Sistema para persistência de dados via request, enviando um arquivo .txt
